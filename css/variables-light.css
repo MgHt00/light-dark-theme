@@ -1,0 +1,9 @@
+:root {
+    color-scheme: light dark;
+    /* both supported */
+
+    --body_background_color: #fffef9;
+    --text_color: #000000;
+    --switch_background: #bdb9a6;
+    --switch_button: #fff;
+}
